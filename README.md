@@ -2,6 +2,8 @@
 
 # Angular 1.5 component architecture app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alanerzhao/angular-1.5.svg)](https://greenkeeper.io/)
+
 > Try the [Contacts Manager](https://contacts-manager-e486f.firebaseapp.com) app! You'll need to register and create an account.
 
 ---
